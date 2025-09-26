@@ -1,0 +1,1 @@
+This repository contains old scripts for Sophie Van Cuylenborg's 2025 Honours thesis. The scripts have since been cleaned and organized in a new repository: https://github.com/gaynor-lab/gorongosa-baboon-abr
